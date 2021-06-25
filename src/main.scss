@@ -12,7 +12,7 @@ $font-family: 'Helvetica Neue', Helvetica, Arial, "Microsoft YaHei", sans-serif;
 
 body {
   color: #333;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.5;
   font-family: $font-family;
   -webkit-font-smoothing: antialiased;
@@ -80,7 +80,7 @@ a {
 
 .content-hd {
   width: 100%;
-  padding: 20px 50px;
+  padding: 10px 50px 10px 50px;
   color: #fff;
   background-color: $color-green;
   overflow: hidden;
